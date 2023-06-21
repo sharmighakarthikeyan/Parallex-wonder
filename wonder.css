@@ -1,0 +1,70 @@
+body
+{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+  
+}
+section
+{
+    width: 100%;
+    height: 100vh;
+   
+   
+}
+.sec1
+{
+    background-image: url(eduford_img/wall.jpg);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sec2
+{
+    background-image: url(eduford_img/petra.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sec3
+{
+    background-image: url(eduford_img/Machu-Picchu.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sec4
+{
+    background-image: url(eduford_img/wall.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sec5
+{
+    background-image: url(eduford_img/petra.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sec6
+{
+    background-image: url(eduford_img/Machu-Picchu.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.content
+{
+    padding: 50px;
+  transform: translateY(130%);
+
+}
+.content h1,p
+{
+  position: relative;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(34, 247, 10);
+}
+
+
+
+
